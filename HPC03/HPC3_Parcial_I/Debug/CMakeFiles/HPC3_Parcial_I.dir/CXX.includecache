@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krl/Documents/HPC3/HPC3_Parcial_I/OPERATIONS/matrixoperations.h
+eigen3/Eigen/Dense
+-
+
+/home/krl/Documents/HPC3/HPC3_Parcial_I/main.cpp
+OPERATIONS/matrixoperations.h
+/home/krl/Documents/HPC3/HPC3_Parcial_I/OPERATIONS/matrixoperations.h
+iostream
+-
+eigen3/Eigen/Dense
+-
+unsupported/Eigen/MatrixFunctions
+-
+ctime
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/HPC3_Parcial_I.dir/main.cpp.o CMakeFiles/HPC3_Parcial_I.dir/OPERATIONS/matrixoperations.cpp.o  -o HPC3_Parcial_I 
