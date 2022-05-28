@@ -1,4 +1,4 @@
-# HPC-03 REDES NEURONALES
+# High Performance Computing-03 REDES NEURONALES
 
 ¡Bienvenido al repositorio de **Neftcode**!
 
